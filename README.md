@@ -7,18 +7,17 @@
 ### 🧠 About Me  
 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning** at **Haridwar University**  
 💡 Passionate about **Machine Learning**, **Automation**, **web development** and **Robotics**  
-⚙️ I love experimenting with **Arduino**, **C Programming**, and now I start learning python  
-🌱 Currently learning **Data Structures, Web Development , C Programming**  
-📫 Reach me at **dakshchoudhary8881@gmail.com**  
-💬 Ask me about **AI, C language, or Arduino Projects**  
+⚙️ I love experimenting with **Arduino**, **Programming**, and now I start learning python  
+🌱 Currently learning **Data Structures, Web Development**  
+📫 Reach me at **dakshchoudhary90840@gmail.com**    
 ⚡ Fun fact: I enjoy turning simple ideas into real working prototypes!
 
 ---
 
 ### 🛠️ Tech Stack  
-💻 **Languages:** learning C  
-🧠 **AI/ML Tools:**  (not yet start to learn)
-⚙️ **Hardware:** Arduino, Sensors, Motors ,L289 motor driver module 
+💻 **Languages:**  C , HTML , CSS , Python.
+🧠 **AI/ML Tools:** Keep Learning after the fundamentals of Python.
+⚙️ **Hardware:** Arduino, Sensors, Motors ,L289 motor driver module .
 🧰 **Tools:** VS Code, Git, GitHub  
 
 ---
@@ -33,7 +32,10 @@ Built using Arduino Uno, Ultrasonic Sensors, and Motor Drivers.
 > AI-powered project designed for an inter-college hackathon.  
 Focus on teamwork, innovation, and real-world problem solving.
 
----
+#### 🌐 Personal Portfolio Website
+> This section highlights projects created during my learning journey.  
+Each project demonstrates growth in structure, design, and problem-solving.
+
 
 ### 📊 GitHub Stats  
 
